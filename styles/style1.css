@@ -1,0 +1,848 @@
+        /*-----------layout1----------------------*/
+
+
+
+
+/*----------indexgeneral------------*/
+
+
+
+*
+{
+    padding: 1px;
+    margin: 0px;
+}
+
+body
+{
+    width: 1000px;
+    height:6000px;
+    border:3px solid purple;
+    border-radius: 10px;
+}
+
+
+h1
+{
+    border: 3px solid purple;
+    border-radius: 10px;
+    text-align: center;
+    width: 98%;
+    height:60px;
+    margin-top: 6px;
+    margin-left: 6px;
+    
+    
+}
+
+/*----------seccionPrincipal------------*/
+
+
+
+
+#rep
+{
+    width:98%;
+    height:100%;
+    margin-top: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#agua1a
+{
+    width: 100%;
+    height:4500px;
+    border:3px solid purple;
+    border-radius: 10px;
+    margin: auto;
+
+    background-image: radial-gradient(purple, violet, purple, black); 
+    display: grid;
+    grid-gap: 5px;
+    grid-template-column: auto auto;
+    
+    
+}
+
+
+/*----------visualisadorcanal------------*/
+
+
+
+
+#agua12a
+{
+    width: 97%;
+    height:660px;
+    border:3px solid orange;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    margin-left: 6px;
+    margin-top: 10px;
+     position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    
+}
+
+
+#div16
+{
+    width: 950px;
+    height:638px;
+    border:3px solid orange;
+    border-radius: 10px;
+    *background-color: antiquewhite;
+    margin-left: 6px;
+    margin-top: 6px;
+    background-color: black;
+   
+  
+   
+}
+
+
+
+
+/*----------selectorcanal------------*/
+
+
+
+#agua13a
+{
+    width: 230px;
+    height:1300px;
+    border:3px solid purple;
+    border-radius: 10px;
+    background-color: darkorange;
+    margin-left: 750px;
+    margin-top: 0px;
+    display: grid;
+    grid-template-columns: auto;
+    overflow: scroll;
+    grid-gap: 5px;
+    
+}
+
+
+
+
+#agua131a
+{
+    width: 218px;
+    height:218px;
+    padding: 2px;
+    
+    border:3px solid purple;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-left: 3px;
+    background-color: aliceblue;
+    display: grid;
+    grid-template-columns: auto;
+  
+}
+
+
+
+#i131a
+{
+    width: 200px;
+    height: 200px;
+    border: 1px solid gold;
+    border-radius: 50%;
+    margin-left: 3px;
+    margin-top: 0px;
+    
+}
+
+
+
+
+
+
+
+#agua132a
+{
+    width: 218px;
+    height:218px;
+    
+    border:3px solid purple;
+    border-radius: 50%;
+    *margin-top: 10px;
+    margin-left: 3px;
+    background-color: aliceblue;
+}
+
+
+
+
+#i132a
+{
+    
+    
+    width: 200px;
+    height: 200px;
+    border: 1px solid gold;
+    border-radius: 50%;
+    margin-left: 5px;
+    margin-top: -25px;
+    
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#agua133a
+{
+    width: 218px;
+    height:218px;
+    
+    border:3px solid purple;
+    border-radius: 50%;
+    *margin-top: 10px;
+    margin-left: 3px;
+    background-color: aliceblue;
+}
+
+
+
+#agua134a
+{
+    width: 218px;
+    height:218px;
+    
+    border:3px solid purple;
+    border-radius: 50%;
+    *margin-top: 10px;
+    margin-left: 3px;
+    background-color: aliceblue;
+}
+
+
+
+#agua135a
+{
+    width: 218px;
+    height:218px;
+    
+    border:3px solid purple;
+    border-radius: 50%;
+    *margin-top: 10px;
+    margin-left: 3px;
+    background-color: aliceblue;
+}
+
+
+#agua136a
+{
+    width: 218px;
+    height:218px;
+    
+    border:3px solid purple;
+    border-radius: 50%;
+    *margin-top: 10px;
+    margin-left: 3px;
+    background-color: aliceblue;
+}
+
+
+#agua137a
+{
+    width: 218px;
+    height:218px;
+    
+    border:3px solid purple;
+    border-radius: 50%;
+    *margin-top: 10px;
+    margin-left: 3px;
+    background-color: aliceblue;
+}
+
+
+
+#agua138a
+{
+    width: 218px;
+    height:218px;
+    
+    border:3px solid purple;
+    border-radius: 50%;
+    *margin-top: 10px;
+    margin-left: 3px;
+    background-color: aliceblue;
+}
+
+
+
+
+#agua139a
+{
+    width: 218px;
+    height:218px;
+    
+    border:3px solid purple;
+    border-radius: 50%;
+    *margin-top: 10px;
+    margin-left: 3px;
+    background-color: aliceblue;
+}
+
+
+
+
+
+
+
+
+
+/*----------selectorcanal------------*/
+
+
+
+
+
+/*----------idvideo------------*/
+
+
+
+
+#agua14a
+{
+    width: 720px;
+    height:100px;
+    border:3px solid purple;
+    border-radius: 10px;
+    background-color: indigo;
+    margin-top: -1335px;
+    margin-left: 6px;
+    display: grid;
+    grid-template-columns: auto;
+}
+
+
+#agua141a
+{
+    
+    width: 97%;
+    height:30px;
+    
+    border:3px solid purple;
+    border-radius: 10px;
+    margin-top: 3px;
+    margin-left: 3px;
+    background-color: aliceblue;
+}
+
+
+#agua142a
+{
+    
+    width: 90%;
+    height:30px;
+    
+    border:3px solid purple;
+    border-radius: 10px;
+    margin-top: 3px;
+    margin-left: 6px;
+    background-color: deepskyblue;
+}
+
+
+
+
+/*----------idvideo------------*/
+
+
+/*----------descripcionvideo------------*/
+
+
+
+#agua15a
+{
+    width: 720px;
+    height:300px;
+    border:3px solid purple;
+    border-radius: 10px;
+    margin-top: -1243px;
+    margin-left: 6px;
+    background-color: crimson;
+}
+
+
+#agua151a
+{
+    
+    width: 97%;
+    height:30px;
+    
+    border:3px solid purple;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-left: 6px;
+    background-color: aliceblue;
+}
+
+
+#agua152a
+{
+    
+    width: 97%;
+    height:220px;
+    
+    border:3px solid purple;
+    border-radius: 10px;
+    margin-top: 7px;
+    margin-left: 6px;
+    background-color: azure;
+}
+
+
+
+
+
+
+/*----------descripcionvideo------------*/
+
+
+
+/*----------coleccionvideo------------*/
+
+
+
+#agua16a
+{
+    width: 720px;
+    height:860px;
+    border:3px solid purple;
+    border-radius: 10px;
+    margin-left: 6px;
+    margin-top: -953px;
+    background-color: deeppink;
+    display: grid;
+    grid-template-columns: auto;
+    grid-gap: 5px;
+    overflow: scroll;
+}
+
+
+
+#agua161a
+{
+    
+    width: 97%;
+    height:80px;
+    
+    border:3px solid purple;
+    border-radius: 10px;
+    margin-top: 7px;
+    margin-left: 6px;
+    background-color: aliceblue;
+}
+
+
+
+
+#agua162a
+{
+    
+    width: 97%;
+    height:80px;
+    
+    border:3px solid purple;
+    border-radius: 10px;
+    margin-top: 7px;
+    margin-left: 6px;
+    background-color: blueviolet;
+}
+
+
+
+#agua163a
+{
+    
+    width: 97%;
+    height:80px;
+    
+    border:3px solid purple;
+    border-radius: 10px;
+    margin-top: 7px;
+    margin-left: 6px;
+    background-color: blueviolet;
+}
+
+
+
+
+
+#agua164a
+{
+    
+    width: 97%;
+    height:80px;
+    
+    border:3px solid purple;
+    border-radius: 10px;
+    margin-top: 7px;
+    margin-left: 6px;
+    background-color: blueviolet;
+}
+
+
+
+
+
+#agua165a
+{
+    
+    width: 97%;
+    height:80px;
+    
+    border:3px solid purple;
+    border-radius: 10px;
+    margin-top: 7px;
+    margin-left: 6px;
+    background-color: blueviolet;
+}
+
+
+
+
+
+
+#agua166a
+{
+    
+    width: 97%;
+    height:80px;
+    
+    border:3px solid purple;
+    border-radius: 10px;
+    margin-top: 7px;
+    margin-left: 6px;
+    background-color: blueviolet;
+}
+
+
+
+
+
+
+#agua167a
+{
+    
+    width: 97%;
+    height:80px;
+    
+    border:3px solid purple;
+    border-radius: 10px;
+    margin-top: 7px;
+    margin-left: 6px;
+    background-color: blueviolet;
+}
+
+
+
+
+
+
+#agua168a
+{
+    
+    width: 97%;
+    height:80px;
+    
+    border:3px solid purple;
+    border-radius: 10px;
+    margin-top: 7px;
+    margin-left: 6px;
+    background-color: blueviolet;
+}
+
+
+
+
+
+#agua169a
+{
+    
+    width: 97%;
+    height:80px;
+    
+    border:3px solid purple;
+    border-radius: 10px;
+    margin-top: 7px;
+    margin-left: 6px;
+    background-color: blueviolet;
+}
+
+
+
+
+
+
+#agua1610a
+{
+    
+    width: 97%;
+    height:80px;
+    
+    border:3px solid purple;
+    border-radius: 10px;
+    margin-top: 7px;
+    margin-left: 6px;
+    background-color: blueviolet;
+}
+
+
+
+#agua1611a
+{
+    
+    width: 97%;
+    height:80px;
+    
+    border:3px solid purple;
+    border-radius: 10px;
+    margin-top: 7px;
+    margin-left: 6px;
+    background-color: blueviolet;
+}
+
+
+
+
+#agua1612a
+{
+    
+    width: 97%;
+    height:80px;
+    
+    border:3px solid purple;
+    border-radius: 10px;
+    margin-top: 7px;
+    margin-left: 6px;
+    background-color: blueviolet;
+}
+
+
+
+#agua1613a
+{
+    
+    width: 97%;
+    height:80px;
+    
+    border:3px solid purple;
+    border-radius: 10px;
+    margin-top: 7px;
+    margin-left: 6px;
+    background-color: blueviolet;
+}
+
+
+
+
+
+#agua1614a
+{
+    
+    width: 97%;
+    height:80px;
+    
+    border:3px solid purple;
+    border-radius: 10px;
+    margin-top: 7px;
+    margin-left: 6px;
+    background-color: blueviolet;
+}
+
+
+
+
+
+#agua1615a
+{
+    
+    width: 97%;
+    height:80px;
+    
+    border:3px solid purple;
+    border-radius: 10px;
+    margin-top: 7px;
+    margin-left: 6px;
+    background-color: blueviolet;
+}
+
+
+
+
+
+
+#agua1616a
+{
+    
+    width: 97%;
+    height:80px;
+    
+    border:3px solid purple;
+    border-radius: 10px;
+    margin-top: 7px;
+    margin-left: 6px;
+    background-color: blueviolet;
+}
+
+
+
+
+
+
+#agua1617a
+{
+    
+    width: 97%;
+    height:80px;
+    
+    border:3px solid purple;
+    border-radius: 10px;
+    margin-top: 7px;
+    margin-left: 6px;
+    background-color: blueviolet;
+}
+
+
+
+
+
+
+#agua1618a
+{
+    
+    width: 97%;
+    height:80px;
+    
+    border:3px solid purple;
+    border-radius: 10px;
+    margin-top: 7px;
+    margin-left: 6px;
+    background-color: blueviolet;
+}
+
+
+
+
+
+#agua1619a
+{
+    
+    width: 97%;
+    height:80px;
+    
+    border:3px solid purple;
+    border-radius: 10px;
+    margin-top: 7px;
+    margin-left: 6px;
+    background-color: blueviolet;
+}
+
+
+
+#agua1620a
+{
+    
+    width: 97%;
+    height:80px;
+    
+    border:3px solid purple;
+    border-radius: 10px;
+    margin-top: 7px;
+    margin-left: 6px;
+    background-color: aliceblue;
+}
+
+
+
+
+
+
+/*----------coleccionvideo------------*/
+
+
+/*----------selectorcanal------------*/
+
+
+#agua17a
+{
+    width: 98%;
+    
+    height:1100px;
+    border:3px solid purple;
+    border-radius: 10px;
+    margin-top: 0px;
+    margin-left: 6px;
+    
+    background-color: fuchsia;
+}
+
+
+/*----------selectorcanal------------*/
+
+#agua18a
+{
+   background-color: deepskyblue;
+    width: 98%;
+    height:1100px;
+    border:3px solid purple;
+    border-radius: 10px;
+    margin-left: 6px;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+/*----------selectorcanal------------*/
+
+
+
+
+
+
+/*
+
+#agua20
+{
+    width: 700px;
+    height:800px;
+    border:3px solid purple;
+    border-radius: 10px;
+    margin: auto;
+}
+
+*/
